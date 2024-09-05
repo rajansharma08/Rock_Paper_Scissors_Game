@@ -71,7 +71,7 @@ img {
 @media (max-width: 600px) {
   .choices {
     flex-direction: column; /* Stack choices vertically */
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
 
   .choice {
@@ -96,7 +96,7 @@ img {
   }
 
   #msg {
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding: 0.5rem;
   }
 }
