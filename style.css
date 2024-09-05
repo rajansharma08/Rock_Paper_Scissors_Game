@@ -72,6 +72,7 @@ img {
   .choices {
     flex-direction: column; /* Stack choices vertically */
     margin-top: 1rem;
+    gap: 1rem;
   }
 
   .choice {
